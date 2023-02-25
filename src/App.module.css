@@ -1,4 +1,20 @@
-* { box-sizing: border-box; }
+* { 
+    box-sizing: border-box;
+}
+
+html {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 20px; 
+}
+@media (max-width: 992px) {
+    html {
+        height: auto;
+    }
+}
+
 
 body {
     font-family: Arial, Helvetica, sans-serif;
@@ -17,7 +33,7 @@ body {
     margin: auto;
     max-width: 900px;
     color: #4B2951;
-    gap: 80px;
+    gap: 60px;
 }
 
 .container .leftSide {
@@ -35,6 +51,14 @@ body {
    margin-bottom: 40px;
    text-align: justify;
 }
+.container .containerLeftInputs {
+    flex: 1;
+}
+.container .containerImg {
+    display: flex;
+    justify-content: center;
+    flex: 1;
+}
 
 .bodyleft {
     display: flex;
@@ -44,13 +68,22 @@ body {
 
 .container .leftSide input {
     width: 100%;
-    padding: 10px 2px;
+    padding: 10px 8px;
     margin-top: 4px;
     margin-bottom: 20px;
     font-size: 14px;
+    background-color: rgba(197, 158, 148, 0.5);
+    border: none;
+    border-radius: 4px;
+    box-shadow: inset .5px .5px .5px .3px rgba(202, 166, 197, 0.5);  
 }
 .container .leftSide input:disabled {
     opacity: .5;
+}
+
+.containerButton {
+    display: flex;
+    justify-content: center;
 }
 .container .leftSide button {
    background-color: #80318D;
@@ -61,7 +94,8 @@ body {
    padding: 15px 0;
    width: 100%;
    cursor: pointer;
-   margin-top: 40px;
+   margin-top: 60px;
+   max-width: 500px;
    transition: all ease .3s;
 }
 .container .leftSide button:hover {
@@ -115,7 +149,6 @@ body {
     .bodyleft {
         display: flex;
         justify-content: center;
-        gap: 60px;
     }
 }
 
@@ -124,16 +157,19 @@ body {
         margin: 40px auto 20px auto;
     }
     .container .leftSide button {
-        margin-top: 20px;
+        margin-top: 40px;
      }
     .bodyleft {
         gap: 10px;
     }
-    .container .rightSide .rightBig {
-        margin-top: -40px;
-    }
     .container .rightSide .grid {
-        margin-top: -40px;
+        margin-top: -20px;
         grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 381px) {
+    .container .containerImg {
+        display: none;
     }
 }

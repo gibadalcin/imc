@@ -14,8 +14,12 @@ export const levels: Level[] = [
 ]
 
 export const calcImc = (height: number, weight: number) => {
-    const imc = weight / (height ** 2)
+    let hTemp = height > 10 ? height / 100 : height
+    const imc = weight / (hTemp ** 2)
 
+    console.log('height: ',height)
+    console.log('weight: ',weight)
+    console.log(imc)
     for(let i in levels) {
         if(imc >= levels[i].imc[0] && imc < levels[i].imc[1]) {
             let levelCopy: Level = {...levels[i]}
