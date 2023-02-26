@@ -29,7 +29,7 @@
 ### Funcionalidades
   
  + Tela Principal
-    + 1- <strong>Input de altura:</strong> Deve recebero valor de altura em centímetros ou em metros.
+    + 1- <strong>Input de altura:</strong> Deve receber o valor de altura em centímetros ou em metros.
     + 2- <strong>Input de peso:</strong> Deve receber o valor do peso a ser calculado.
     + 3- <strong>Botão [ Calcular ]:</strong> Após os valores anteriores estarem devidamente preenchidos, deve ser pressionado para efetuar o cálculo do IMC.
        + Após o botão [ Calcular ] ser pressionado, o software irá desativar os inputs e o próprio botão até que a seta [ <- ] seja pressionada junto ao ícone correspondente ao resultado.
