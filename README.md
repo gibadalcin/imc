@@ -6,7 +6,7 @@
 ---
 
 ### Linguagens e tecnologias utilizadas
-<image src="https://user-images.githubusercontent.com/69020289/221385203-d021a807-b391-42fc-8891-09a8dfa9fce4.png" width = "45px">_&nbsp;&nbsp;_ <image src="https://user-images.githubusercontent.com/69020289/221385115-ebebd127-42be-41c6-b8d1-fd28b2463dcc.png" width = "94px" >_&nbsp;&nbsp;_ <image src="https://user-images.githubusercontent.com/69020289/221385242-aae9e7e5-25a4-4842-aed7-c405cc54b3d3.png" width = "180px"> 
+<image src="https://user-images.githubusercontent.com/69020289/221385203-d021a807-b391-42fc-8891-09a8dfa9fce4.png" width = "45px">_&nbsp;&nbsp;_ <image src="https://user-images.githubusercontent.com/69020289/221385115-ebebd127-42be-41c6-b8d1-fd28b2463dcc.png" width = "94px" >_&nbsp;&nbsp;_ <image src="https://user-images.githubusercontent.com/69020289/221385242-aae9e7e5-25a4-4842-aed7-c405cc54b3d3.png" width = "180px">_&nbsp;&nbsp;_ <image src="https://user-images.githubusercontent.com/69020289/221386907-c7afca3b-8a49-4040-a556-39348668bcbb.png" width = "30px">Figma 
 
  
 ---
