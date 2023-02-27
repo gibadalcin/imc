@@ -1,4 +1,4 @@
-# react-calc-imc
+# IMC - Calculadora
 
 ### Descrição
 + Calculadora de IMC - Índice de Massa Corporal
