@@ -21,8 +21,8 @@
 
 |            Mobile Layout           |            Tablet Layout           |            Desktop Layout          |
 | ---------------------------------- | ---------------------------------- | ---------------------------------- |
-| <image src="https://user-images.githubusercontent.com/69020289/221385774-ae8beec3-5d13-43ea-b31f-b0f45216be4a.png"> | <image src="https://user-images.githubusercontent.com/69020289/221385802-98854f60-ead0-4a52-bc63-35239e3a203b.png" width="334px"> | <image src="https://user-images.githubusercontent.com/69020289/221385768-8c4a9c9e-f7b5-47e0-abce-5d6272264fd1.png" width="970px">
-| <image src="https://user-images.githubusercontent.com/69020289/221386606-9dbb4741-fdbf-4cbc-9376-afaa69acf2a3.png"> | <image src="https://user-images.githubusercontent.com/69020289/221385964-0f3f9836-3aec-44d3-b736-b3a469c3b92e.png" width="334px"> | <image src="https://user-images.githubusercontent.com/69020289/221385966-39d64d41-1c9f-42eb-b6e3-c258cace96b8.png" width="970px">
+| <image src="https://user-images.githubusercontent.com/69020289/221445361-b9ff7de3-9cb2-4090-9f73-34daf07fbfc5.png"> | <image src="https://user-images.githubusercontent.com/69020289/221445389-e2a23a1f-c136-4580-bd05-51ec8a6bae7a.png" width="360px"> | <image src="https://user-images.githubusercontent.com/69020289/221445276-c4c3928b-8275-450c-81f7-17104a522ff9.png" width="970px">
+| <image src="https://user-images.githubusercontent.com/69020289/221445364-0d9f43f9-ff6f-4e27-9708-716a61d41423.png"> | <image src="https://user-images.githubusercontent.com/69020289/221445393-407a995b-1986-455f-8591-26d4107b6269.png" width="334px"> | <image src="https://user-images.githubusercontent.com/69020289/221445312-a5fad413-fb3a-4c97-94ff-a9957a52ed0b.png" width="970px">
 
 ---
 
