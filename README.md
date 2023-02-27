@@ -37,7 +37,5 @@
     
   
 ---
-### Observações
-+ Apesar de trabalhar com Javascript a mais de dois anos, essa é a minha primeira experiência utilizando o React e TypeScript, por este motivo existem diversos pontos a serem melhorados no código e que com o tempo serão atualizados.
  
 
