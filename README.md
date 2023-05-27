@@ -1,4 +1,4 @@
-# IMC - Calculadora
+# IMC 
 
 ### Descrição
 + Calculadora de IMC - Índice de Massa Corporal
